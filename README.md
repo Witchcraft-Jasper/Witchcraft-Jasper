@@ -2,9 +2,9 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/Witchcraft-Jasper/count.svg) visitors. Thank you for coming here!🥳🥳🥳
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Witchcraft-Jasper&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Witchcraft-Jasper&layout=compact&theme=chartreuse-dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Witchcraft-Jasper&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Witchcraft-Jasper&count_private=true&theme=chartreuse-dark)
 <!--
 **Witchcraft-Jasper/Witchcraft-Jasper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
