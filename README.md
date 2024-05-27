@@ -1,13 +1,15 @@
 ### Hi there👋
 You are my ![Visitor Count](https://profile-counter.glitch.me/Witchcraft-Jasper/count.svg) visitors. Thank you for coming here!🥳🥳🥳
 <p align="center">
+  <br>
   I'm Witchcraft, a Computer Engineer & Software Developer.
+  <br>
   <p>🔭I'm currently working at DiDi Global Inc. as an Algorithm Intern.</p>
   <br>
   📚 I’m currently learning Deep Learning & Graph Network
   <br>
   <br>
-  📫 You cat reach me at: <a href="mailto: dszlym@163.com  ">  dszlym@163.com  </a>
+  📫 You cat reach me at: <a href="mailto: dszlym@163.com  "> dszlym@163.com  </a>
 
 </p>
 <div align="center">
