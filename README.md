@@ -1,10 +1,12 @@
 ### Hi there👋
 You are my ![Visitor Count](https://profile-counter.glitch.me/Witchcraft-Jasper/count.svg) visitors. Thank you for coming here!🥳🥳🥳
-<p align="center">
+<p>
   <br>
   I'm Witchcraft, a Computer Engineer & Software Developer.
   <br>
-  <p>🔭I'm currently working at DiDi Global Inc. as an Algorithm Intern.</p>
+  <br>
+  🔭I'm currently working at DiDi Global Inc. as an Algorithm Intern.
+  <br>
   <br>
   📚 I’m currently learning Deep Learning & Graph Network
   <br>
