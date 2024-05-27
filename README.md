@@ -1,6 +1,6 @@
+### Hi there👋
+You are my ![Visitor Count](https://profile-counter.glitch.me/Witchcraft-Jasper/count.svg) visitors. Thank you for coming here!🥳🥳🥳
 <p align="center">
-  Hi there👋
-  You are my ![Visitor Count](https://profile-counter.glitch.me/Witchcraft-Jasper/count.svg) visitors. Thank you for coming here!🥳🥳🥳
   I'm Witchcraft, a Computer Engineer & Software Developer.
   <p>🔭I'm currently working at DiDi Global Inc. as an Algorithm Intern.</p>
   <br>
