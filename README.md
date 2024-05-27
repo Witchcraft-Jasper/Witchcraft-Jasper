@@ -8,7 +8,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Witchcraft-Jasper/
   🔭 I'm currently working at DiDi Global Inc. as an Algorithm Intern.
   <br>
   <br>
-  📚 I’m currently learning Deep Learning & Graph Network
+  📚 I’m currently learning Deep Learning & Graph Network.
   <br>
   <br>
   📫 You cat reach me at: <a href="mailto: dszlym@163.com  "> dszlym@163.com  </a>
