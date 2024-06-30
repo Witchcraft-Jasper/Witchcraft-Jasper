@@ -32,7 +32,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Witchcraft-Jasper/
   <div>&nbsp;</div>
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Witchcraft-Jasper&layout=compact&theme=discord_old_blurple" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Witchcraft-Jasper&layout=compact&theme=discord_old_blurple&hide=C,HTML" />
   </a>
   </div>
 <!--
