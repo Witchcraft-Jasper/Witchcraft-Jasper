@@ -1,5 +1,7 @@
 ### Hi there👋
-You are my ![Visitor Count](https://profile-counter.glitch.me/Witchcraft-Jasper/count.svg) visitors. Thank you for coming here!🥳🥳🥳
+
+![](https://komarev.com/ghpvc/?username=Witchcraft-Jasper)
+<!-- You are my ![Visitor Count](https://profile-counter.glitch.me/Witchcraft-Jasper/count.svg) visitors. Thank you for coming here!🥳🥳🥳 -->
 <p>
   <br>
   🫨 I'm Witchcraft, a Computer Engineer & Software Developer.
@@ -13,7 +15,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Witchcraft-Jasper/
   <br>
   📫 You cat reach me at: <a href="mailto: dszlym@163.com  "> dszlym@163.com  </a>
 
-</p>
+<!-- </p>
 <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Witchcraft-Jasper&theme=discord_old_blurple" /> </div>
@@ -34,7 +36,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Witchcraft-Jasper/
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Witchcraft-Jasper&layout=compact&theme=discord_old_blurple&hide=C,HTML,CSS,QMake" />
   </a>
-  </div>
+  </div> -->
 <!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Witchcraft-Jasper/Witchcraft-Jasper/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
