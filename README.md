@@ -10,7 +10,10 @@
   🔭 I'm currently working at DiDi Chuxing as an Algorithm Intern.
   <br>
   <br>
-  📚 I’m currently learning Deep Learning & Graph Network.
+  📚 I'm currently learning Deep Learning & Graph Network.
+  <br>
+  <br>
+  🤔 I'm currently interested in Multivariate Time Series (MTS) & Traffic Prediction.
   <br>
   <br>
   📫 You cat reach me at: <a href="mailto: dszlym@163.com  "> dszlym@163.com  </a>
